@@ -23,6 +23,6 @@
 <p>High-quality backlinks build your site’s authority and credibility. We use ethical, effective link-building strategies to help your site gain trust and improve its rankings.</p>
 
 <h3>Get Started Today!</h3>
-<p>Partner with our <a href="https://ipresyo.com/">SEO agency in the Philippines</a> to elevate your business. Whether you need content writing, website development, or comprehensive SEO services, our team has the expertise to deliver real results.</p>
+<p>Partner with our <a href="https://ipresyo.com/seo/">SEO agency in the Philippines</a> to elevate your business. Whether you need content writing, website development, or comprehensive SEO services, our team has the expertise to deliver real results.</p>
 
 📫 Email: **ipresyo.me@gmail.com**
